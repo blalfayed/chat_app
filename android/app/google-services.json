@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095161889239",
+    "project_id": "messageme-app2-d3bc4",
+    "storage_bucket": "messageme-app2-d3bc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095161889239:android:146e6d3b0bda8bbd358b92",
+        "android_client_info": {
+          "package_name": "com.belall.messageme_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI6GPTDN4AY7ZWGVBfKQstrSwVoxL24Rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
